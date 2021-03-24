@@ -132,6 +132,13 @@ exploits\Firmware\7.02\GoldHEN\index.html
 exploits\Firmware\7.02\HEN\HEN.js
 exploits\Firmware\7.02\HEN\HENnew.js
 exploits\Firmware\7.02\HEN\index.html
+exploits/FirmwareExploit/7.02/HEN-Beta-Test/index.html
+exploits/FirmwareExploit/7.02/HEN-Beta-Test/int64.js
+exploits/FirmwareExploit/7.02/HEN-Beta-Test/payload.js
+exploits/FirmwareExploit/7.02/HEN-Beta-Test/ps4.js
+exploits/FirmwareExploit/7.02/HEN-Beta-Test/rop.js
+exploits/FirmwareExploit/7.02/HEN-Beta-Test/userland.js
+exploits/FirmwareExploit/7.02/HEN-Beta-Test/utils.js
 exploits\Firmware\7.02\History-Blocker\History-Blocker.js
 exploits\Firmware\7.02\History-Blocker\index.html
 exploits\Firmware\7.02\jb702\c-code.js
