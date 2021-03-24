@@ -1,6 +1,6 @@
 CACHE MANIFEST 
 # v4 
-# 23/03/2021-23:17:07,37 
+# 24/03/2021-14:05:09,46 
 
 
 CACHE: 
@@ -102,29 +102,8 @@ exploits\Firmware\7.02\BinLoader-ChendoChap\userland.js
 exploits\Firmware\7.02\BinLoader-ChendoChap\utils.js
 exploits\Firmware\7.02\Disable-Updates\Disable-Updates.js
 exploits\Firmware\7.02\Disable-Updates\index.html
-exploits\Firmware\7.02\Enable-Browser\Enable-Browser.js
-exploits\Firmware\7.02\Enable-Browser\index.html
 exploits\Firmware\7.02\Enable-Updates\Enable-Updates.js
 exploits\Firmware\7.02\Enable-Updates\index.html
-exploits\Firmware\7.02\Fan-Speed\index.html
-exploits\Firmware\7.02\Fan-Speed\Payloads\50\50.js
-exploits\Firmware\7.02\Fan-Speed\Payloads\50\index.html
-exploits\Firmware\7.02\Fan-Speed\Payloads\55\55.js
-exploits\Firmware\7.02\Fan-Speed\Payloads\55\index.html
-exploits\Firmware\7.02\Fan-Speed\Payloads\60\60.js
-exploits\Firmware\7.02\Fan-Speed\Payloads\60\index.html
-exploits\Firmware\7.02\Fan-Speed\Payloads\65\65.js
-exploits\Firmware\7.02\Fan-Speed\Payloads\65\index.html
-exploits\Firmware\7.02\Fan-Speed\Payloads\70\70.js
-exploits\Firmware\7.02\Fan-Speed\Payloads\70\index.html
-exploits\Firmware\7.02\Fan-Speed\Payloads\75\75.js
-exploits\Firmware\7.02\Fan-Speed\Payloads\75\index.html
-exploits\Firmware\7.02\Fan-Speed\Payloads\80\80.js
-exploits\Firmware\7.02\Fan-Speed\Payloads\80\index.html
-exploits\Firmware\7.02\Fan-Speed\Payloads\85\85.js
-exploits\Firmware\7.02\Fan-Speed\Payloads\85\index.html
-exploits\Firmware\7.02\Fan-Speed\Payloads\90\90.js
-exploits\Firmware\7.02\Fan-Speed\Payloads\90\index.html
 exploits\Firmware\7.02\FTP\FTP.js
 exploits\Firmware\7.02\FTP\index.html
 exploits\Firmware\7.02\GoldHEN\goldhen.js
@@ -169,8 +148,6 @@ exploits\Firmware\7.02\R.I.F-Renamer\index.html
 exploits\Firmware\7.02\R.I.F-Renamer\rif-renamer.js
 exploits\Firmware\7.02\Restore\index.html
 exploits\Firmware\7.02\Restore\Restore.js
-exploits\Firmware\7.02\spoof\index.html
-exploits\Firmware\7.02\spoof\spoof.js
 exploits\Firmware\7.02\todex\index.html
 exploits\Firmware\7.02\todex\todex.js
 exploits\Firmware\7.5x\750.js
@@ -237,8 +214,8 @@ exploits\Firmware\7.5x\WebRTE\index.html
 exploits\Firmware\7.5x\WebRTE\WebRTE.js
 js\index.js
 js\script.js
+Ressources\Background.jpg
 Ressources\PokerFace.png
-Ressources\Wallpaper.gif
 
 FALLBACK: 
 index.html 

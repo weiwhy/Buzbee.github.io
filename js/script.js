@@ -40,15 +40,8 @@ function resetPage() {
 }
 
 function getFirmwares() {
-  var firmwareSpoofs = {
-    "5.51": "4.55",
-    "5.07": "5.05"
-  };
   var ua = navigator.userAgent;
   var currentFirmware = ua.substring(ua.indexOf("5.0 (") + 19, ua.indexOf(") Apple"));
-  if (firmwareSpoofs.hasOwnProperty(currentFirmware)) {
-    currentFirmware = firmwareSpoofs[currentFirmware];
-  }
   var firmwares = "";
   x = 0;
   for (var i = 0, len = data["Choose Firmware"].length; i < len; i++) {
@@ -72,6 +65,8 @@ function getFirmwares() {
     window.location.href = ".#" + "7.5x";
   } else if (currentFirmware == "9.99") {
     window.alert("You are in spoof mod, please choose a firmware manually");
+  } else if (currentFirmware == "5.05") {
+    window.location.href = ".#" + "5.05";
   } else {
     window.location.href = ".#" + currentFirmware;
   }
