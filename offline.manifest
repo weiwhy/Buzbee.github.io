@@ -176,8 +176,6 @@ exploits\Firmware\7.5x\HistoryBlocker\index.html
 exploits\Firmware\7.5x\jb750\c-code.js
 exploits\Firmware\7.5x\KernelClock\index.html
 exploits\Firmware\7.5x\KernelClock\kernel-clock.js
-exploits\Firmware\7.5x\KernelDumper\index.html
-exploits\Firmware\7.5x\KernelDumper\kernel-dumper.js
 exploits\Firmware\7.5x\LinuxLoader-1GB\index.html
 exploits\Firmware\7.5x\LinuxLoader-1GB\LinuxLoader.js
 exploits\Firmware\7.5x\LinuxLoader-3GB\index.html
@@ -205,10 +203,11 @@ exploits\Firmware\7.5x\RestoreDB\index.html
 exploits\Firmware\7.5x\RestoreDB\restore.js
 exploits\Firmware\7.5x\RifRenamer\index.html
 exploits\Firmware\7.5x\RifRenamer\rif-renamer.js
-exploits\Firmware\7.5x\ToDex\index.html
-exploits\Firmware\7.5x\ToDex\todex.js
 exploits\Firmware\7.5x\Hen&ToDex\index.html
 exploits\Firmware\7.5x\HenToDex\henSP8.js
+exploits\Firmware\7.5x\Web-Activator\Activator.js
+exploits\Firmware\7.5x\Web-Activator\index.html
+exploits\Firmware\7.5x\Web-Activator\Set.js
 exploits\Firmware\7.5x\WebRTE\index.html
 exploits\Firmware\7.5x\WebRTE\WebRTE.js
 js\index.js
