@@ -170,10 +170,12 @@ exploits\Firmware\7.5x\ExitIDU\Exit-IDU.js
 exploits\Firmware\7.5x\ExitIDU\index.html
 exploits\Firmware\7.5x\FTP\ftp.js
 exploits\Firmware\7.5x\FTP\index.html
-exploits\Firmware\7.5x\GoldHEN\goldhen_750.js
-exploits\Firmware\7.5x\GoldHEN\goldhen_751.js
-exploits\Firmware\7.5x\GoldHEN\goldhen_755.js
-exploits\Firmware\7.5x\GoldHEN\index.html
+exploits\Firmware\7.5x\GoldHEN 1.0 (7.55)\goldhen_755.js
+exploits\Firmware\7.5x\GoldHEN 1.0 (7.55)\index.html
+exploits\Firmware\7.5x\GoldHEN 1.1\goldhen_750.js
+exploits\Firmware\7.5x\GoldHEN 1.1\goldhen_751.js
+exploits\Firmware\7.5x\GoldHEN 1.1\goldhen_755.js
+exploits\Firmware\7.5x\GoldHEN 1.1\index.html
 exploits\Firmware\7.5x\HistoryBlocker\history-blocker.js
 exploits\Firmware\7.5x\HistoryBlocker\index.html
 exploits\Firmware\7.5x\jb750\c-code.js
