@@ -179,8 +179,6 @@ exploits\Firmware\7.5x\GoldHEN_1.1\index.html
 exploits\Firmware\7.5x\HistoryBlocker\history-blocker.js
 exploits\Firmware\7.5x\HistoryBlocker\index.html
 exploits\Firmware\7.5x\jb750\c-code.js
-exploits\Firmware\7.5x\KernelClock\index.html
-exploits\Firmware\7.5x\KernelClock\kernel-clock.js
 exploits\Firmware\7.5x\LinuxLoader-1GB\index.html
 exploits\Firmware\7.5x\LinuxLoader-1GB\LinuxLoader.js
 exploits\Firmware\7.5x\LinuxLoader-4GB\index.html
@@ -210,6 +208,7 @@ exploits\Firmware\7.5x\RifRenamer\index.html
 exploits\Firmware\7.5x\RifRenamer\rif-renamer.js
 exploits\Firmware\7.5x\Hen&ToDex\index.html
 exploits\Firmware\7.5x\Hen&ToDex\henSP8.js
+exploits\Firmware\7.5x\Hen213b\index.html
 exploits\Firmware\7.5x\Hen213b\hen213b.js
 exploits\Firmware\7.5x\Web-Activator\Activator.js
 exploits\Firmware\7.5x\Web-Activator\index.html
