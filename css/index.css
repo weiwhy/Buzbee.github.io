@@ -101,7 +101,7 @@ h4 {
 
 
 .btn {
-    padding: 10px 25px;
+    padding: 5px 25px;
     text-align: center;
     text-decoration: none;
     display: table;
@@ -110,26 +110,26 @@ h4 {
     transition-duration: 0.4s;
     cursor: pointer;
     float: left;
-    margin: 8px 60px;
-    border: 5px solid black;
+    margin: 6px 6.5%;
+    border: 5px solid rgba(16, 0, 61, 0.61);
     padding-top: 5px;
 }
 .btn-disabled {
-    width: 25%;
+    width: 20%;
     background-color: #777777;
     color: white;
     border-radius: 15px;
 }
 
 .btn-main {
-    width: 25%;
+    width: 20%;
     background-image: linear-gradient(to right, #DA22FF 0%, #9733EE  51%, #DA22FF  100%);
     background-size: 200% auto;
     color: white;
     border-radius: 15px;
 }
 .btn-main:hover {
-    width: 25%;
+    width: 20%;
     background-position: right center;
     color: white;
     border-radius: 22px;
