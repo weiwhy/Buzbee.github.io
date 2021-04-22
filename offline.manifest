@@ -1,3 +1,4 @@
+
 CACHE MANIFEST 
 # v4 
 # 09/04/2021-12:38:51,97 
@@ -111,6 +112,13 @@ exploits\Firmware\7.02\GoldHEN\index.html
 exploits\Firmware\7.02\HEN\HEN.js
 exploits\Firmware\7.02\HEN\HENnew.js
 exploits\Firmware\7.02\HEN\index.html
+exploits\Firmware\7.02\HEN-Beta-Test\index.html
+exploits\Firmware\7.02\HEN-Beta-Test\int64.js
+exploits\Firmware\7.02\HEN-Beta-Test\payload.js
+exploits\Firmware\7.02\HEN-Beta-Test\ps4.js
+exploits\Firmware\7.02\HEN-Beta-Test\rop.js
+exploits\Firmware\7.02\HEN-Beta-Test\userland.js
+exploits\Firmware\7.02\HEN-Beta-Test\utils.js
 exploits\Firmware\7.02\History-Blocker\History-Blocker.js
 exploits\Firmware\7.02\History-Blocker\index.html
 exploits\Firmware\7.02\jb702\c-code.js
