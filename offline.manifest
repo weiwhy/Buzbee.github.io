@@ -71,6 +71,7 @@ exploits\Firmware\6.72\js\LinuxLoader.js
 exploits\Firmware\6.72\js\LinuxLoaderBaikal.js
 exploits\Firmware\6.72\js\mira.js
 exploits\Firmware\6.72\js\miranohb.js
+exploits\Firmware\6.72\js\ps4debug.js
 exploits\Firmware\6.72\js\ReactPS+.js
 exploits\Firmware\6.72\js\Restore.js
 exploits\Firmware\6.72\js\ToDex.js
@@ -79,6 +80,7 @@ exploits\Firmware\6.72\LinuxLoader\index.html
 exploits\Firmware\6.72\LinuxLoaderBaikal\index.html
 exploits\Firmware\6.72\Mira\index.html
 exploits\Firmware\6.72\MiranoHB\index.html
+exploits\Firmware\6.72\PS4Debug\index.html
 exploits\Firmware\6.72\ReactPS+\index.html
 exploits\Firmware\6.72\Restore\index.html
 exploits\Firmware\6.72\ToDex\index.html
@@ -138,9 +140,11 @@ exploits\Firmware\7.02\mira702\miraold.js
 exploits\Firmware\7.02\Module-Dumper\Dumper.js
 exploits\Firmware\7.02\Module-Dumper\index.html
 exploits\Firmware\7.02\PS4Debug\index.html
+exploits\Firmware\7.02\PS4Debug\index.html.bak
 exploits\Firmware\7.02\PS4Debug\int64.js
 exploits\Firmware\7.02\PS4Debug\payload.js
 exploits\Firmware\7.02\PS4Debug\ps4.js
+exploits\Firmware\7.02\PS4Debug\ps4debug.js
 exploits\Firmware\7.02\PS4Debug\rop.js
 exploits\Firmware\7.02\PS4Debug\userland.js
 exploits\Firmware\7.02\PS4Debug\utils.js
@@ -209,6 +213,7 @@ exploits\Firmware\7.5x\ModuleDumper\index.html
 exploits\Firmware\7.5x\Netcat\index.html
 exploits\Firmware\7.5x\PS4Debug\index.html
 exploits\Firmware\7.5x\PS4Debug\ps4debug.js
+exploits\Firmware\7.5x\PS4Debug\ps4debug.js.bak
 exploits\Firmware\7.5x\RestoreDB\index.html
 exploits\Firmware\7.5x\RestoreDB\restore.js
 exploits\Firmware\7.5x\RifRenamer\index.html
