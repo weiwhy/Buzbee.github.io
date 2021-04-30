@@ -1,6 +1,6 @@
 CACHE MANIFEST 
 # v4 
-# 25/04/2021-15:24:30,65 
+# 29/04/2021-23:19:49,84 
 
 
 CACHE: 
@@ -61,8 +61,6 @@ exploits\Firmware\6.72\js\Backup.js
 exploits\Firmware\6.72\js\DisableUpdate.js
 exploits\Firmware\6.72\js\Dumper.js
 exploits\Firmware\6.72\js\EnableUpdate.js
-exploits\Firmware\6.72\js\Fan-Threshold-60.js
-exploits\Firmware\6.72\js\Fan-Threshold-70.js
 exploits\Firmware\6.72\js\FTP.js
 exploits\Firmware\6.72\js\goldhen.js
 exploits\Firmware\6.72\js\HEN.js
@@ -128,12 +126,12 @@ exploits\Firmware\7.02\History-Blocker\index.html
 exploits\Firmware\7.02\jb702\c-code.js
 exploits\Firmware\7.02\Kernel-Clock\index.html
 exploits\Firmware\7.02\Kernel-Clock\Kernel-Clock.js
-exploits\Firmware\7.02\Linux-1GBVRAM\index.html
-exploits\Firmware\7.02\Linux-1GBVRAM\Linux1.js
-exploits\Firmware\7.02\Linux-1GBVRAM\Linux1Old.js
-exploits\Firmware\7.02\Linux-4GBVRAM\index.html
-exploits\Firmware\7.02\Linux-4GBVRAM\Linux3Old.js
-exploits\Firmware\7.02\Linux-4GBVRAM\Linux4.js
+exploits\Firmware\7.02\LinuxLoader-1GBVRAM\index.html
+exploits\Firmware\7.02\LinuxLoader-1GBVRAM\Linux1.js
+exploits\Firmware\7.02\LinuxLoader-1GBVRAM\Linux1.js.bak
+exploits\Firmware\7.02\LinuxLoader-4GBVRAM\index.html
+exploits\Firmware\7.02\LinuxLoader-4GBVRAM\Linux4.js
+exploits\Firmware\7.02\LinuxLoader-4GBVRAM\Linux4.js.bak
 exploits\Firmware\7.02\Mira\index.html
 exploits\Firmware\7.02\Mira\Mira.js
 exploits\Firmware\7.02\Mira\Miraold.js
@@ -176,8 +174,6 @@ exploits\Firmware\7.5x\DisableASLR\disable-aslr.js
 exploits\Firmware\7.5x\DisableASLR\index.html
 exploits\Firmware\7.5x\DisableUpdates\disable-updates.js
 exploits\Firmware\7.5x\DisableUpdates\index.html
-exploits\Firmware\7.5x\EnableBrowser\Enable-Browser.js
-exploits\Firmware\7.5x\EnableBrowser\index.html
 exploits\Firmware\7.5x\EnableUpdates\enable-updates.js
 exploits\Firmware\7.5x\EnableUpdates\index.html
 exploits\Firmware\7.5x\ExitIDU\Exit-IDU.js
@@ -197,8 +193,6 @@ exploits\Firmware\7.5x\HistoryBlocker\index.html
 exploits\Firmware\7.5x\jb750\c-code.js
 exploits\Firmware\7.5x\KernelClock\index.html
 exploits\Firmware\7.5x\KernelClock\kernel-clock.js
-exploits\Firmware\7.5x\KernelDumper\index.html
-exploits\Firmware\7.5x\KernelDumper\kernel-dumper.js
 exploits\Firmware\7.5x\LinuxLoader-1GB\index.html
 exploits\Firmware\7.5x\LinuxLoader-1GB\LinuxLoader.js
 exploits\Firmware\7.5x\LinuxLoader-4GB\index.html
@@ -229,6 +223,7 @@ exploits\Firmware\7.5x\RifRenamer\index.html
 exploits\Firmware\7.5x\RifRenamer\rif-renamer.js
 exploits\Firmware\7.5x\ToDex\index.html
 exploits\Firmware\7.5x\ToDex\todex.js
+exploits\Firmware\7.5x\ToDex\todex.js.bak
 exploits\Firmware\7.5x\Web-Activator\Activator.js
 exploits\Firmware\7.5x\Web-Activator\index.html
 exploits\Firmware\7.5x\Web-Activator\Set.js
