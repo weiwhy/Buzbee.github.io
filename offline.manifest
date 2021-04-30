@@ -1,6 +1,6 @@
 CACHE MANIFEST 
 # v4 
-# 29/04/2021-23:19:49,84 
+# 30/04/2021-20:27:30,67 
 
 
 CACHE: 
@@ -65,12 +65,12 @@ exploits\Firmware\6.72\js\FTP.js
 exploits\Firmware\6.72\js\goldhen.js
 exploits\Firmware\6.72\js\HEN.js
 exploits\Firmware\6.72\js\HistoryBlocker.js
-exploits\Firmware\6.72\js\KernelClock.js
 exploits\Firmware\6.72\js\LinuxLoader-4gb.js
 exploits\Firmware\6.72\js\LinuxLoader.js
 exploits\Firmware\6.72\js\mira.js
 exploits\Firmware\6.72\js\miranohb.js
 exploits\Firmware\6.72\js\ps4debug.js
+exploits\Firmware\6.72\js\ps4debug.js.bak
 exploits\Firmware\6.72\js\Restore.js
 exploits\Firmware\6.72\js\Set.js
 exploits\Firmware\6.72\js\ToDex.js
@@ -112,18 +112,16 @@ exploits\Firmware\7.02\GoldHEN\index.html
 exploits\Firmware\7.02\HEN\HEN.js
 exploits\Firmware\7.02\HEN\HENnew.js
 exploits\Firmware\7.02\HEN\index.html
-exploits\Firmware\7.02\HEN-Beta-Test\index.html
-exploits\Firmware\7.02\HEN-Beta-Test\int64.js
-exploits\Firmware\7.02\HEN-Beta-Test\payload.js
-exploits\Firmware\7.02\HEN-Beta-Test\ps4.js
-exploits\Firmware\7.02\HEN-Beta-Test\rop.js
-exploits\Firmware\7.02\HEN-Beta-Test\userland.js
-exploits\Firmware\7.02\HEN-Beta-Test\utils.js
+exploits\Firmware\7.02\Hen&ToDex\index.html
+exploits\Firmware\7.02\Hen&ToDex\int64.js
+exploits\Firmware\7.02\Hen&ToDex\payload.js
+exploits\Firmware\7.02\Hen&ToDex\ps4.js
+exploits\Firmware\7.02\Hen&ToDex\rop.js
+exploits\Firmware\7.02\Hen&ToDex\userland.js
+exploits\Firmware\7.02\Hen&ToDex\utils.js
 exploits\Firmware\7.02\History-Blocker\History-Blocker.js
 exploits\Firmware\7.02\History-Blocker\index.html
 exploits\Firmware\7.02\jb702\c-code.js
-exploits\Firmware\7.02\Kernel-Clock\index.html
-exploits\Firmware\7.02\Kernel-Clock\Kernel-Clock.js
 exploits\Firmware\7.02\LinuxLoader-1GBVRAM\index.html
 exploits\Firmware\7.02\LinuxLoader-1GBVRAM\Linux1.js
 exploits\Firmware\7.02\LinuxLoader-1GBVRAM\Linux1.js.bak
@@ -189,8 +187,6 @@ exploits\Firmware\7.5x\GoldHEN_1.1\index.html
 exploits\Firmware\7.5x\HistoryBlocker\history-blocker.js
 exploits\Firmware\7.5x\HistoryBlocker\index.html
 exploits\Firmware\7.5x\jb750\c-code.js
-exploits\Firmware\7.5x\KernelClock\index.html
-exploits\Firmware\7.5x\KernelClock\kernel-clock.js
 exploits\Firmware\7.5x\LinuxLoader-1GB\index.html
 exploits\Firmware\7.5x\LinuxLoader-1GB\LinuxLoader.js
 exploits\Firmware\7.5x\LinuxLoader-4GB\index.html
