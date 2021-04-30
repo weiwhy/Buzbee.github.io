@@ -71,7 +71,6 @@ exploits\Firmware\6.72\js\LinuxLoader.js
 exploits\Firmware\6.72\js\mira.js
 exploits\Firmware\6.72\js\miranohb.js
 exploits\Firmware\6.72\js\ps4debug.js
-exploits\Firmware\6.72\js\ReactPS+.js
 exploits\Firmware\6.72\js\Restore.js
 exploits\Firmware\6.72\js\Set.js
 exploits\Firmware\6.72\js\ToDex.js
@@ -81,7 +80,6 @@ exploits\Firmware\6.72\LinuxLoader-4GBVRAM\index.html
 exploits\Firmware\6.72\Mira\index.html
 exploits\Firmware\6.72\MiranoHB\index.html
 exploits\Firmware\6.72\PS4Debug\index.html
-exploits\Firmware\6.72\ReactPS+\index.html
 exploits\Firmware\6.72\Restore\index.html
 exploits\Firmware\6.72\ToDex\index.html
 exploits\Firmware\6.72\Web-Activator\index.html
