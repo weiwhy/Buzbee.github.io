@@ -2,7 +2,7 @@ import http.server
 import socketserver
 import socket
 
-PORT = 80
+PORT = 8080
 Handler = http.server.SimpleHTTPRequestHandler
 hostname = socket.gethostname()
 s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)

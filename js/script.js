@@ -28,7 +28,7 @@ function isInArray(value, array) {
 }
 
 function updatePage(title, header, buttons) {
-  document.title = "BUZBEE | PS4xploit";
+  document.title = "HAKKURAIFU | PS4xploit";
   document.getElementById("title").innerHTML = title;
   document.getElementById("header").innerHTML = header;
   document.getElementById("buttons").innerHTML = buttons;
@@ -36,12 +36,12 @@ function updatePage(title, header, buttons) {
 
 function resetPage() {
   history.pushState("", document.title, window.location.pathname + window.location.search);
-  updatePage("BUZBEE | PS4xploit", "Choose Firmware", firmwares);
+  updatePage("HAKKURAIFU | PS4xploit", "Choose Firmware", firmwares);
 }
 
 function getFirmwares() {
-  var ua = navigator.userAgent;
-  var currentFirmware = ua.substring(ua.indexOf("5.0 (") + 19, ua.indexOf(") Apple"));
+  var currentFirmware = navigator.userAgent.substring(navigator.userAgent.indexOf('5.0 ('), navigator.userAgent.indexOf(') Apple'));
+  currentFirmware = currentFirmware.replace('5.0 (PlayStation 4 ', '');
   var firmwares = "";
   x = 0;
   for (var i = 0, len = data["Choose Firmware"].length; i < len; i++) {
