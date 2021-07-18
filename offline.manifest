@@ -1,6 +1,6 @@
 CACHE MANIFEST 
 # v4 
-# 30/04/2021-20:27:30,67 
+# 10/07/2021-22:23:12,67 
 
 
 CACHE: 
@@ -27,6 +27,7 @@ exploits\Firmware\5.05\Mira+HEN\mira.js
 exploits\Firmware\5.05\Mira+HEN\rop.js
 exploits\Firmware\5.05\Mira+HEN\syscalls.js
 exploits\Firmware\5.05\Mira+HEN\userland.js
+exploits\Firmware\5.05\Orbis-Toolbox\index.html
 exploits\Firmware\5.05\OrbisAFR\index.html
 exploits\Firmware\5.05\Original\expl.js
 exploits\Firmware\5.05\Original\index.html
@@ -69,6 +70,7 @@ exploits\Firmware\6.72\js\LinuxLoader-4gb.js
 exploits\Firmware\6.72\js\LinuxLoader.js
 exploits\Firmware\6.72\js\mira.js
 exploits\Firmware\6.72\js\miranohb.js
+exploits\Firmware\6.72\js\Orbis-Toolbox-672.js
 exploits\Firmware\6.72\js\ps4debug.js
 exploits\Firmware\6.72\js\ps4debug.js.bak
 exploits\Firmware\6.72\js\Restore.js
@@ -79,6 +81,7 @@ exploits\Firmware\6.72\LinuxLoader-1GBVRAM\index.html
 exploits\Firmware\6.72\LinuxLoader-4GBVRAM\index.html
 exploits\Firmware\6.72\Mira\index.html
 exploits\Firmware\6.72\MiranoHB\index.html
+exploits\Firmware\6.72\Orbis-Toolbox\index.html
 exploits\Firmware\6.72\PS4Debug\index.html
 exploits\Firmware\6.72\Restore\index.html
 exploits\Firmware\6.72\ToDex\index.html
@@ -112,13 +115,6 @@ exploits\Firmware\7.02\GoldHEN\index.html
 exploits\Firmware\7.02\HEN\HEN.js
 exploits\Firmware\7.02\HEN\HENnew.js
 exploits\Firmware\7.02\HEN\index.html
-exploits\Firmware\7.02\Hen&ToDex\index.html
-exploits\Firmware\7.02\Hen&ToDex\int64.js
-exploits\Firmware\7.02\Hen&ToDex\payload.js
-exploits\Firmware\7.02\Hen&ToDex\ps4.js
-exploits\Firmware\7.02\Hen&ToDex\rop.js
-exploits\Firmware\7.02\Hen&ToDex\userland.js
-exploits\Firmware\7.02\Hen&ToDex\utils.js
 exploits\Firmware\7.02\History-Blocker\History-Blocker.js
 exploits\Firmware\7.02\History-Blocker\index.html
 exploits\Firmware\7.02\jb702\c-code.js
@@ -136,6 +132,8 @@ exploits\Firmware\7.02\mira702\mira.js
 exploits\Firmware\7.02\mira702\miraold.js
 exploits\Firmware\7.02\Module-Dumper\Dumper.js
 exploits\Firmware\7.02\Module-Dumper\index.html
+exploits\Firmware\7.02\Orbis-Toolbox\index.html
+exploits\Firmware\7.02\Orbis-Toolbox\Orbis-Toolbox-702.js
 exploits\Firmware\7.02\PS4Debug\index.html
 exploits\Firmware\7.02\PS4Debug\index.html.bak
 exploits\Firmware\7.02\PS4Debug\int64.js
@@ -176,8 +174,6 @@ exploits\Firmware\7.5x\ExitIDU\Exit-IDU.js
 exploits\Firmware\7.5x\ExitIDU\index.html
 exploits\Firmware\7.5x\FTP\ftp.js
 exploits\Firmware\7.5x\FTP\index.html
-exploits\Firmware\7.5x\Hen&ToDex\index.html
-exploits\Firmware\7.5x\Hen&ToDex\henSP8.js
 exploits\Firmware\7.5x\GoldHEN_1.0\goldhen_755.js
 exploits\Firmware\7.5x\GoldHEN_1.0\index.html
 exploits\Firmware\7.5x\GoldHEN_1.1\goldhen_750.js
@@ -208,6 +204,8 @@ exploits\Firmware\7.5x\mira750\mira2.js
 exploits\Firmware\7.5x\ModuleDumper\dumper.js
 exploits\Firmware\7.5x\ModuleDumper\index.html
 exploits\Firmware\7.5x\Netcat\index.html
+exploits\Firmware\7.5x\Orbis-Toolbox\index.html
+exploits\Firmware\7.5x\Orbis-Toolbox\Orbis-Toolbox-755.js
 exploits\Firmware\7.5x\PS4Debug\index.html
 exploits\Firmware\7.5x\PS4Debug\ps4debug.js
 exploits\Firmware\7.5x\PS4Debug\ps4debug.js.bak
