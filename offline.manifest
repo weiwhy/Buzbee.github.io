@@ -115,6 +115,13 @@ exploits\Firmware\7.02\GoldHEN\index.html
 exploits\Firmware\7.02\HEN\HEN.js
 exploits\Firmware\7.02\HEN\HENnew.js
 exploits\Firmware\7.02\HEN\index.html
+exploits\Firmware\7.02\Hen&ToDex\index.html
+exploits\Firmware\7.02\Hen&ToDex\int64.js
+exploits\Firmware\7.02\Hen&ToDex\payload.js
+exploits\Firmware\7.02\Hen&ToDex\ps4.js
+exploits\Firmware\7.02\Hen&ToDex\rop.js
+exploits\Firmware\7.02\Hen&ToDex\userland.js
+exploits\Firmware\7.02\Hen&ToDex\utils.js
 exploits\Firmware\7.02\History-Blocker\History-Blocker.js
 exploits\Firmware\7.02\History-Blocker\index.html
 exploits\Firmware\7.02\jb702\c-code.js
@@ -174,6 +181,8 @@ exploits\Firmware\7.5x\ExitIDU\Exit-IDU.js
 exploits\Firmware\7.5x\ExitIDU\index.html
 exploits\Firmware\7.5x\FTP\ftp.js
 exploits\Firmware\7.5x\FTP\index.html
+exploits\Firmware\7.5x\Hen&ToDex\index.html
+exploits\Firmware\7.5x\Hen&ToDex\henSP8.js
 exploits\Firmware\7.5x\GoldHEN_1.0\goldhen_755.js
 exploits\Firmware\7.5x\GoldHEN_1.0\index.html
 exploits\Firmware\7.5x\GoldHEN_1.1\goldhen_750.js
